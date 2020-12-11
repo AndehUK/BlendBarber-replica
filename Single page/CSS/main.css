@@ -66,11 +66,16 @@ body {
     border-radius: 15px;
     background-color: #ffff;
     color: #425a63;
-    box-shadow: grey;
+    box-shadow: 13px 10px 19px -5px rgba(0, 0, 0, 1);
 }
 
 .centre {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.aboutHeading {
+    text-align: center;
+    margin-top: 5%;
 }
