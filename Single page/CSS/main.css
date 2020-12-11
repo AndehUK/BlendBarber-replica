@@ -1,0 +1,56 @@
+.body {
+    background-color: grey;
+    height: 100vh;
+    color: white;
+}
+
+body {
+    margin: 0;
+}
+
+.nav {
+    overflow: hidden;
+    text-align: center;
+    height: 600px;
+}
+
+.backg-img {
+    background: 
+    linear-gradient(180deg, rgba(68,90,102,0.18) 0%, rgba(66,88,102,0.64) 100%),url(../Assets/Far-View.jpg) no-repeat center center fixed;
+    height: 100%;
+    overflow: hidden;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
+}
+  
+.nav a {
+    display: inline-block;
+    color: white;
+    font-size: larger;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+    position: relative;
+    top: 0;
+    vertical-align: middle;
+}
+
+header {
+    background-color: transparent;
+    color: white;
+}
+
+.curvesImg{
+    transform: rotate(180deg) translateZ(0);
+}
+
+body {
+    font-family: 'Poppins',Arial,sans-serif;
+}
+
+.img {
+    text-align: center;
+}
