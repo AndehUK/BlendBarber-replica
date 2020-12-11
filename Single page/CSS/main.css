@@ -68,3 +68,9 @@ body {
     color: #425a63;
     box-shadow: grey;
 }
+
+.centre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
