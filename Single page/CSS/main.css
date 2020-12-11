@@ -200,17 +200,28 @@ html {
     color: #425a63;
     background-color: white;
 }
+
+.primary:hover {
+    color: white;
+    background-color: #425a63
+}
 .secondary {
     color: white;
     background-color: #425a63;
 }
-.green {
+
+.secondary:hover {
     color: white;
-    background-color: #0ac743;
+    background-color: #425a63
 }
-.red {
-    color: white;
-    background-color: #c70a23;
+.fbButton {
+    color: #425a63;
+    background-color: white;
+}
+
+.fbButton:hover {
+    color: #425a63;
+    background-color: lightgray;
 }
 
 .footerText {
