@@ -1,6 +1,5 @@
 .body {
     background-color: grey;
-    height: 100vh;
     color: white;
 }
 
@@ -56,16 +55,15 @@ body {
 }
 
 .bookButton {
-    border: none;
     color: #425a63;
-    padding: 15px 32px;
+    padding: 10px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    border-radius: 15px;
-    background-color: #ffff;
-    color: #425a63;
+    border-radius: 12px;
+    border: 0px;
+    background-color: white;
     box-shadow: 13px 10px 19px -5px rgba(0, 0, 0, 1);
 }
 
@@ -78,4 +76,62 @@ body {
 .aboutHeading {
     text-align: center;
     margin-top: 5%;
+}
+
+.aboutText {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.aboutButton {
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    border:0px;
+    background-color: #425a63;
+    box-shadow: 13px 10px 19px -5px rgba(0, 0, 0, 1);
+} 
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
+
+.button {
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    border:0px;
+    box-shadow: 13px 10px 19px -5px rgba(0, 0, 0, 1);
+    margin: 5px;
+}
+.primary {
+    color: #425a63;
+    background-color: white;
+}
+.secondary {
+    color: white;
+    background-color: #425a63;
+}
+.green {
+    color: white;
+    background-color: #0ac743;
+}
+.red {
+    color: white;
+    background-color: #c70a23;
 }
