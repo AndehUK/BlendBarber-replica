@@ -212,3 +212,18 @@ html {
     color: white;
     background-color: #c70a23;
 }
+
+.footerText {
+    text-align: center;
+    color: grey;
+    text-decoration: none;
+}
+
+.footerNav {
+    color: grey;
+    text-align: center;
+    overflow: hidden;
+    text-decoration: none;
+    position: relative;
+    padding-right: 10px;
+}
