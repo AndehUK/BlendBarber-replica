@@ -22,7 +22,7 @@ body {
 
 .backg-img {
     background: 
-    linear-gradient(180deg, rgba(68,90,102,0.18) 0%, rgba(66,88,102,0.64) 100%),url(../Assets/Far-View.jpg) no-repeat center center fixed;
+    linear-gradient(180deg, rgba(68,90,102,0.18) 0%, rgba(66,88,102,0.64) 100%),url(assets/Far-View.jpg) no-repeat center center fixed;
     height: 100%;
     overflow: hidden;
     -webkit-background-size: cover;
